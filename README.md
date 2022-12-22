@@ -5,10 +5,10 @@ If you are interested in my profile feel free to contact me at [nathanb1357@gmai
 
 ## Languages
 <img align="left" alt="HTML" width="28px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/html.png" />
-<img align="left" alt="CSS" width="28px" src="https://raw.githubusercontent.com/nathanb1357/nathanb1357/images/css.png" />
-<img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/nathanb1357/nathanb1357/images/javascript.png" />
-<img align="left" alt="Java" width="28px" src="https://raw.githubusercontent.com/nathanb1357/nathanb1357/images/java.png" />
-<img align="left" alt="Python" width="28px" src="https://raw.githubusercontent.com/nathanb1357/nathanb1357/images/python.png" />
+<img align="left" alt="CSS" width="28px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/css.png" />
+<img align="left" alt="JavaScript" width="28px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/javascript.png" />
+<img align="left" alt="Java" width="28px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/java.png" />
+<img align="left" alt="Python" width="28px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/python.png" />
 
 ## Tools
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
