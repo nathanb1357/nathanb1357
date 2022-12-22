@@ -4,11 +4,11 @@ I'm a full-time programming student currently attending BCIT. My interests inclu
 If you are interested in my profile feel free to contact me at [nathanb1357@gmail.com](https://nathanb1357@gmail.com)
 
 ### Languages
-<img align="left" alt="HTML" width="28px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/html.png" />
-<img align="left" alt="CSS" width="28px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/css.png" />
-<img align="left" alt="JavaScript" width="28px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/javascript.png" />
-<img align="left" alt="Java" width="28px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/java.png" />
-<img align="left" alt="Python" width="28px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/python.png" />
+<img align="left" alt="HTML" height="36px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/html.png" />
+<img align="left" alt="CSS" height="36px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/css.png" />
+<img align="left" alt="JavaScript" height="36px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/javascript.png" />
+<img align="left" alt="Java" height="36px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/java.png" />
+<img align="left" alt="Python" height="36px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/python.png" />
 <br/>
 <br/>
 
