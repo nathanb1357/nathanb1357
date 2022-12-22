@@ -13,11 +13,14 @@ If you are interested in my profile feel free to contact me at [nathanb1357@gmai
 <br/>
 
 ### Tools
-<img align="left" alt="GitHub" width="28px" src="" />
-Firebase
-<img align="left" alt="Terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Node.js" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="GitHub" height="32px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/github.png" />
+<img align="left" alt="Terminal" height="32px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/command_line.png" />
+<img align="left" alt="Firebase" height="32px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/firebase.png" />
+<img align="left" alt="Visual Studio Code" height="32px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/vscode.png" />
+<img align="left" alt="Node.js" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+<br/>
+
+## Projects
 
 <!--
 **nathanb1357/nathanb1357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
