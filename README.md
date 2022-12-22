@@ -19,8 +19,9 @@ If you are interested in my profile feel free to contact me at [nathanb1357@gmai
 <img align="left" alt="Visual Studio Code" height="32px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/vscode.png" />
 <img align="left" alt="Node.js" height="32px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/node.png" />
 <br/>
+<br/>
 
-## Projects
+### Projects
 
 <!--
 **nathanb1357/nathanb1357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
