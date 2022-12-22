@@ -20,5 +20,7 @@ If you are interested in my profile feel free to contact me at [nathanb1357@gmai
 <img align="left" alt="Node.js" height="32px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/node.png" />
 <br/>
 <br/>
+<br/>
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=nathanb1357&show_icons=true"/>
