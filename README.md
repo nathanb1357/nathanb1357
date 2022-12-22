@@ -17,7 +17,7 @@ If you are interested in my profile feel free to contact me at [nathanb1357@gmai
 <img align="left" alt="Terminal" height="32px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/command_line.png" />
 <img align="left" alt="Firebase" height="32px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/firebase.png" />
 <img align="left" alt="Visual Studio Code" height="32px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/vscode.png" />
-<img align="left" alt="Node.js" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
+<img align="left" alt="Node.js" height="32px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/node.png" />
 <br/>
 
 ## Projects
