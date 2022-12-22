@@ -4,7 +4,7 @@ I'm a full-time programming student currently attending BCIT. My interests inclu
 If you are interested in my profile feel free to contact me at [nathanb1357@gmail.com](https://nathanb1357@gmail.com)
 
 ## Languages
-<img align="left" alt="HTML" width="28px" src="https://raw.githubusercontent.com/nathanb1357/nathanb1357/images/html.png" />
+<img align="left" alt="HTML" width="28px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/html.png" />
 <img align="left" alt="CSS" width="28px" src="https://raw.githubusercontent.com/nathanb1357/nathanb1357/images/css.png" />
 <img align="left" alt="JavaScript" width="28px" src="https://raw.githubusercontent.com/nathanb1357/nathanb1357/images/javascript.png" />
 <img align="left" alt="Java" width="28px" src="https://raw.githubusercontent.com/nathanb1357/nathanb1357/images/java.png" />
