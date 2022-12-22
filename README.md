@@ -3,7 +3,7 @@
 I'm a full-time programming student currently attending BCIT. My interests include both music and video games - which I am always open to work on!
 If you are interested in my profile feel free to contact me at [nathanb1357@gmail.com](https://nathanb1357@gmail.com)
 
-### Languages
+### Languages:
 <img align="left" alt="HTML" height="36px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/html.png" />
 <img align="left" alt="CSS" height="36px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/css.png" />
 <img align="left" alt="JavaScript" height="36px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/javascript.png" />
@@ -12,7 +12,7 @@ If you are interested in my profile feel free to contact me at [nathanb1357@gmai
 <br/>
 <br/>
 
-### Tools
+### Tools:
 <img align="left" alt="GitHub" height="32px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/github.png" />
 <img align="left" alt="Terminal" height="32px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/command_line.png" />
 <img align="left" alt="Firebase" height="32px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/firebase.png" />
@@ -21,5 +21,4 @@ If you are interested in my profile feel free to contact me at [nathanb1357@gmai
 <br/>
 <br/>
 
-### Statistics
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanb1357&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nathanb1357&show_icons=true"/>
