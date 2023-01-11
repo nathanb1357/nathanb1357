@@ -8,7 +8,7 @@ If you are interested in my profile feel free to contact me at [nathanb1357@gmai
 <img align="left" alt="CSS" height="36px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/css.png" />
 <img align="left" alt="JavaScript" height="36px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/javascript.png" />
 <img align="left" alt="Java" height="36px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/java.png" />
-<img align="left" alt="Python" height="36px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/python.png" />
+<img align="left" alt="Python" height="36px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/csharp.png" />
 <br/>
 <br/>
 
