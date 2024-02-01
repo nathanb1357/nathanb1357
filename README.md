@@ -1,6 +1,6 @@
 ## Hey there, I'm Nathan 👋
 
-I'm a full-time programming student currently attending BCIT. My interests include both music and video games - which I am always open to work on!
+I'm a full-time programming student currently attending BCIT. My interests include music, video editing, and games - which I am usually open to work on.
 If you are interested in my profile feel free to contact me at [nathanb1357@gmail.com](https://nathanb1357@gmail.com)
 
 ### Languages:
