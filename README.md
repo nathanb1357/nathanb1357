@@ -5,6 +5,7 @@ If you are interested in my profile feel free to contact me at [nathanb1357@gmai
 
 ### Languages:
 <img align="left" alt="x86" height="40px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/x86.png" />
+<img align="left" alt="Kotlin" height="40px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/kotlin.png" />
 <img align="left" alt="SQL" height="40px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/sql.png" />
 <img align="left" alt="HTML" height="40px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/html.png" />
 <img align="left" alt="CSS" height="40px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/css.png" />
@@ -18,9 +19,10 @@ If you are interested in my profile feel free to contact me at [nathanb1357@gmai
 ### Tools:
 <img align="left" alt="Linux" height="40px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/linux.png" />
 <img align="left" alt="Windows" height="40px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/windows.png" />
-<img align="left" alt="Visual Studio Code" height="40px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/vscode.png" />
 <img align="left" alt="Firebase" height="40px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/firebase.png" />
+<img align="left" alt="React" height="40px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/react.png" />
 <img align="left" alt="Node.js" height="40px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/node.png" />
+<img align="left" alt="Jetpack Compose" height="40px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/compose.png" />
 <br/><br/><br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=nathanb1357"/>
