@@ -19,8 +19,8 @@ If you are interested in my profile feel free to contact me at [nathanb1357@gmai
 ### Tools:
 <img align="left" alt="Linux" height="40px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/linux.png" />
 <img align="left" alt="Windows" height="40px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/windows.png" />
-<img align="left" alt="Firebase" height="40px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/firebase.png" />
 <img align="left" alt="React" height="40px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/react.png" />
-<img align="left" alt="Node.js" height="40px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/node.png" />
+<img align="left" alt="Firebase" height="40px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/firebase.png" />
 <img align="left" alt="Jetpack Compose" height="40px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/compose.png" />
+<img align="left" alt="Node.js" height="40px" src="https://github.com/nathanb1357/nathanb1357/blob/main/Images/node.png" />
 <br/><br/><br/><br/>
