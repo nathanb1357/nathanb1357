@@ -12,6 +12,7 @@ If you are interested in my profile feel free to contact me at [nathanb1357@gmai
 <img align="left" title="C" height="40px" src="Images/c.png"/>
 <img align="left" title="C#" height="40px" src="Images/csharp.png"/>
 <img align="left" title="SQL" height="40px" src="Images/sql.png"/>
+<img align="left" title="Go" height="40px" src="Images/go.png"/>
 <img align="left" title="Java" height="40px" src="Images/java.png"/>
 <br/><br/>
 
@@ -32,7 +33,3 @@ If you are interested in my profile feel free to contact me at [nathanb1357@gmai
 <img align="left" title="Jetbrains" height="40px" src="Images/jetbrains.png"/>
 <img align="left" title="Unity" height="40px" src="Images/unity.png"/>
 <img align="left" title="Trello" height="40px" src="Images/trello.png"/>
-<br/><br/>
-<br/><br/>
-
-[![Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nathanb1357)](https://github.com/anuraghazra/github-readme-stats)
